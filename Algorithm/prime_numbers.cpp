@@ -16,7 +16,7 @@ bool isPrime(int n)
 
 int main()
 {
-    int n1 = 2, n2 = 100;
+    int n1 = 2, n2 = 1000;
     for(int i = n1; i <= n2; i++)
     {
         if(isPrime(i))
